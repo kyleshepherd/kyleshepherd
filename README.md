@@ -2,7 +2,7 @@
 
 I'm Kyle, a full stack web developer based in Cornwall, UK currently working at <a href="https://github.com/thisissoon">SOON_</a>. 
 
-I like working with Laravel, Wordpress, React and TailwindCSS and lately I've been improving my React skills in my spare time with my <a href="https://github.com/kyleshepherd/common-film-finder">Common Film Finder</a> and <a href="https://github.com/kyleshepherd/spotify-analyser">Statify</a> projects.
+My main dev frameworks are currently Svelte and React, and my latest project is <a href="https://www.smileaturphone.com">Smile At Ur Phone</a>, a site to catalogue the various reasons people smile at their phone.
 
 Give me a message with any questions/collabs/crit!
 
