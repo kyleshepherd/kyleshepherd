@@ -4,4 +4,4 @@ I'm Kyle, a senior software engineer, focusing on the frontend, based in London,
 
 My main dev frameworks are currently Svelte and React, and my latest project is <a href="https://www.smileaturphone.com" target="_blank">Smile At Ur Phone</a>, a site to catalogue the various reasons people smile at their phone.
 
-I'm also currently learning Go and using it to rewrite my Tarkov TK Discord bot!
+I also dabble in some backend coding using Go, and I've recently ported my Tarkov TK Discord Bot from Node.js to Go.
